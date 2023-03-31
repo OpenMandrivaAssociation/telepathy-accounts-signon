@@ -1,7 +1,7 @@
 Name:		telepathy-accounts-signon
 Summary:	Telepathy integration for the Accounts SSO framework
 Version:	2.1
-Release:	2
+Release:	3
 License:	LGPLv2+
 Group:		Networking/Instant messaging
 URL:		https://gitlab.com/accounts-sso/%{name}
